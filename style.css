@@ -1,0 +1,17 @@
+img{
+    height: 400px;
+    width: 700px;
+}
+table.players{
+    border: 1px solid black;
+}
+table,td{
+    border: 1px solid rgb(216, 44, 44);
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    
+}
+th{
+    background-color: coral;
+}
